@@ -49,7 +49,8 @@ Seed database:
 ```
 npx prisma db seed
 ```
-<img width="1727" alt="Screenshot 2022-11-14 at 12 56 14" src="https://user-images.githubusercontent.com/18157225/201675372-cb303a85-92a5-448d-abad-b8035cd9b539.png">
+<img width="1721" alt="Screenshot 2022-11-14 at 13 53 46" src="https://user-images.githubusercontent.com/18157225/201677530-461a7f28-200e-4601-a60f-766d80bb3158.png">
+
 
 # 4. Frontend
 
@@ -65,8 +66,7 @@ npm run dev
 
 ```
 
-<img width="1173" alt="Screenshot 2022-11-14 at 12 56 32" src="https://user-images.githubusercontent.com/18157225/201675411-73b51929-f5c0-4da5-a189-83efc1448aaf.png">
 
-
-<img width="1276" alt="Screenshot 2022-11-14 at 13 46 01" src="https://user-images.githubusercontent.com/18157225/201675880-86a0b7ce-2b83-43fd-9f98-641d581dc668.png">
+![Uploading Screenshot 2022-11-14 at 13.52.36.png…]()
+<img width="1460" alt="Screenshot 2022-11-14 at 13 52 43" src="https://user-images.githubusercontent.com/18157225/201677707-a76e72cb-f127-44e5-afbf-ba320029a0ef.png">
 
