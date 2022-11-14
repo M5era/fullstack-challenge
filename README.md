@@ -66,7 +66,7 @@ npm run dev
 
 ```
 
+<img width="1202" alt="Screenshot 2022-11-14 at 13 52 36" src="https://user-images.githubusercontent.com/18157225/201678292-d64b4dd2-c386-423e-94d8-f4d7e155d0dd.png">
 
-![Uploading Screenshot 2022-11-14 at 13.52.36.png…]()
 <img width="1460" alt="Screenshot 2022-11-14 at 13 52 43" src="https://user-images.githubusercontent.com/18157225/201677707-a76e72cb-f127-44e5-afbf-ba320029a0ef.png">
 
