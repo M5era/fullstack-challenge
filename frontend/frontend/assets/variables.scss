@@ -1,0 +1,36 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+.fill-width {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+table tr {
+  display:flex;
+  flex-direction: column;
+  float: left;
+}
+
+thead,tbody {
+  float: left;
+}
+
+.text-black input{
+  color: #00000061 !important;
+}
+
+.input-group--disabled.v-text-field .input-group__input {
+  color: #00000061 !important;
+}
+
+.input-group--disabled.input-group--select label {
+  color: #00000061 !important;
+}
+.toggle.v-input--is-disabled.v-text-field--outline .v-input__slot {
+  border-color: #00000061;
+}
+.row-pointer {
+  cursor: pointer;
+}

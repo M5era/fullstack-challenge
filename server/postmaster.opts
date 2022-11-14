@@ -1,0 +1,1 @@
+/Applications/Postgres.app/Contents/Versions/15/bin/postgres "-D" "/Users/marcserafin/Documents/Bewerbungsunterlagen/Job job 2022/airbank/server" "-p" "5432"
