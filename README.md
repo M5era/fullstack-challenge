@@ -68,4 +68,5 @@ npm run dev
 <img width="1173" alt="Screenshot 2022-11-14 at 12 56 32" src="https://user-images.githubusercontent.com/18157225/201675411-73b51929-f5c0-4da5-a189-83efc1448aaf.png">
 
 
+<img width="1276" alt="Screenshot 2022-11-14 at 13 46 01" src="https://user-images.githubusercontent.com/18157225/201675880-86a0b7ce-2b83-43fd-9f98-641d581dc668.png">
 
